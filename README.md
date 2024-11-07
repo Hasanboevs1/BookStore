@@ -29,5 +29,5 @@ An online bookstore web application built using .NET 8, C#, Entity Framework Cor
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/online-bookstore.git
-   cd online-bookstore
+   git clone https://github.com/Hasanboevs1/BookStore.git
+   cd BookStore
